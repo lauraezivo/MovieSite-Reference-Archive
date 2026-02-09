@@ -11,3 +11,5 @@
 
 说明：
 本说明内容仅用于介绍影视网站的基础信息，不包含推荐、评价或引导。
+
+Site notes: https://lauraezivo.github.io/MovieSite-Reference-Archive/
